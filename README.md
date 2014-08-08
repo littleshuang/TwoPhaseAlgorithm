@@ -1,4 +1,4 @@
 Two-Phase Algorithm
 =================
 
-Two-Phase algorithm.
+The Two-Phase algorithm is a data mining algorithm for discovering high utility itemsets.
